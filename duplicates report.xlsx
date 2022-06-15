@@ -1,0 +1,14 @@
+	1234,redbull 200ml AND 1235,redbull 200ml Are duplicates
+	1234,redbull 200ml AND 1234,redbull 200ml  Are duplicates
+	1235,redbull 200ml AND 1234,redbull 200ml  Are duplicates
+	1233,redbull white 200ml AND 1233,white redbull 200ml Are duplicates
+	1111,chipsy tomato small AND 1111,chipsy tomato small  Are duplicates
+	1112,chipsy salt small AND 1112,chipsy salt small1 Are duplicates
+	1112,chipsy salt small AND 1112,chipsy salt small1 Are duplicates
+	1112,chipsy salt small AND 1112,chipsy salt small11 Are duplicates
+	1112,chipsy salt small AND 1112,chipsy salt small11 Are duplicates
+	1112,chipsy salt small1 AND 1112,chipsy salt small11 Are duplicates
+	1112,chipsy salt small1 AND 1112,chipsy salt small11 Are duplicates
+	2222,cadbury caramel chocolate AND 2222,cadbury chocolate caramel Are duplicates
+
+The number of duplicates: 12
